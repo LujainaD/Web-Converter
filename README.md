@@ -12,7 +12,7 @@ Technologies
 - Apache NetBeans IDE 11.3
 - Java 14
 - HTMl
-- Server Apache Tomcat or TomEE
+- Server Apache Tomcat 
 
 
 Status

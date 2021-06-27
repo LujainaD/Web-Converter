@@ -18,7 +18,7 @@ Technologies
 Status
 ------------
 
-- In process
+- In progress
 
 
 Note
